@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\shiel\dev\FLUX_imageGen\gradio_FLUX.py", line 1, in <module>
+    import gradio as gr
+ModuleNotFoundError: No module named 'gradio'

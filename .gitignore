@@ -1,0 +1,4 @@
+venv/
+LoRa_Flux/*
+generated_images/
+flux_onnx/*
